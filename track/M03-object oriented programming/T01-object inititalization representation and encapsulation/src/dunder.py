@@ -6,7 +6,7 @@ class Student:
         self.marks = marks
     def study(self):
         print(self.name,"is studying")
-# Read inputs for first student
+
 roll = int(input())
 name = input().strip()
 age = int(input())
@@ -19,7 +19,7 @@ print(s1.name)
 print(s1.age)
 print(s1.marks)
 
-# Read inputs for second student
+
 roll2 = int(input())
 name2 = input().strip()
 age2 = int(input())
