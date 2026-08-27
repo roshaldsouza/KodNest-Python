@@ -28,3 +28,5 @@ print(s1.name)
 
 
 # decorator which changes function body without changing the original function
+#can perform any function or operations in decorator @property or @name.setter
+#if no setter method then it will work only as read only method
